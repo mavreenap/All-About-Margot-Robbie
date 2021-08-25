@@ -1,8 +1,9 @@
 # All-About-Margot-Robbie
 HTML blog- All About Margot Robbie
-##Table of Contents
-* [General info] (#general-info)
-* [Technologies] (#technologies)
+
+## Table of Contents
+* [General info] 
+* [Technologies]
 
 ## General Info 
 This project is a blog post intented to help learn how to add/format 
